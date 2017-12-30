@@ -1,0 +1,9 @@
+name: NextWordPrediction
+account: imishra
+server: shinyapps.io
+appId: 129019
+bundleId: 635246
+url: https://imishra.shinyapps.io/NextWordPrediction/
+when: 1480853940.92736
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,50 @@
+body{
+  color:#155880;
+}
+
+.title{
+        text-align:center;
+        font-weight:bold;
+        font-size:18px;
+}
+#predict{
+	display:none;
+	margin-bottom: 30px;
+}
+.outputText{
+	display:none;
+}
+.result{
+  padding:5px;
+  color:#165880;
+  font-weight:bold;
+  border:3px solid #dddddd;
+  background:#dddddd;
+  border-radius:3px;
+}
+.result_holder{
+	margin-top:20px;
+	background:#dddddd;
+	height:150px;
+	width:100%;
+}
+.result_holder span{
+        display:block;
+        margin:10px 20px 10px 20px;
+}
+.result span{
+  display:inline-block;
+}
+.details,.instruction{
+  margin:30px 30px 50px 0;
+  padding : 0 15px 10px 15px;
+  background:#f5f5f5;
+  border:1px solid #e3e3e3;
+  border-radius:4px;
+}
+.note{
+        margin-top:20px;
+        display:block;
+        font-size:12px;
+        color:#854544;
+}
